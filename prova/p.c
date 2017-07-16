@@ -25,7 +25,7 @@ void createTable(int tabela[12][11]){
 
     int i=0;
     int j=0;
-
+    // wtf man
     while(i!=12){
         j=0;
         while(j!=11){
